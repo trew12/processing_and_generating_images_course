@@ -13,6 +13,10 @@
 * ship
 * truck
 
+## Результаты:
+![image](https://github.com/trew12/processing_and_generating_images_course/assets/64497667/42638cb1-fbe4-4ec6-85de-b6d912c6190f)
+
+
 ## Архитектура
 EfficientNet-B4 
 
@@ -50,7 +54,7 @@ By class:
 ![PrecisionByClass](https://github.com/trew12/processing_and_generating_images_course/assets/64497667/3a45f337-54cd-4a19-8dda-b1f778fd1cc4)
 
 
-##Recall
+## Recall
 Total:
 
 ![Recall](https://github.com/trew12/processing_and_generating_images_course/assets/64497667/37aa2d1d-0591-4ad7-86c8-17245b400031)
