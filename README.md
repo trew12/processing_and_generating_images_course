@@ -14,7 +14,8 @@
 * truck
 
 ## Результаты:
-![image](https://github.com/trew12/processing_and_generating_images_course/assets/64497667/42638cb1-fbe4-4ec6-85de-b6d912c6190f)
+![image](https://github.com/trew12/processing_and_generating_images_course/assets/64497667/945ec03e-a010-4b0f-8fc1-1e9c190c3885)
+
 
 
 ## Архитектура
